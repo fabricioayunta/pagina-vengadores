@@ -1,0 +1,6 @@
+el primer error que encontré es que cuando creas una sección no podes poner un nombre con espacios. si lo pones con espacio directamente no te aparece nada. pierde mucho funcionalismo y formalidad la pagina. 
+otro error es que no deja cambiar el tamaño de las imágenes, ósea no podes modificar al 100% como vos queres la pagina.
+
+algo que me paso es que las secciones no me funcionaron bien ya que cuando quiero usar la sección me manda a la parte principal de la pagina, ósea a la entrada que dice avengers. el error era porque no lo vincule con comodin.php, estaría buena que te avise que le tenes que poner si o si una plantilla porque sino no te va a aparecer
+también le agregaría un sistema de ayuda. porque hay errores o cosas sin entender que con esa opción se solucionarían.
+otro error es que cuando elegís el id en un topico ya creado, al lado te aparece el nombre de a donde lo estas poniendo por ejemplo la historia de iroman, y te aparece Thor. por mas que lo cambies siempre aparece Thor, aunque en realidad si aparece en iroman. solo que ahí editan aparece como si lo estuvieras poniendo en Thor.
